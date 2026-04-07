@@ -4,16 +4,14 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: linear-gradient(120deg, #1e3a8a, #2563eb);
+  background-image: linear-gradient(120deg, #1e1b4b, #2563eb);
 }
 
-/* Make most text/link accents blue instead of green */
 a {
   color: #2563eb;
 }
 
-a:hover,
-a:focus {
+a:hover {
   color: #1d4ed8;
 }
 
