@@ -18,6 +18,10 @@ UH GameLink is a web application designed to help University of Hawaiʻi student
 * [Initial Mockup Pages](#initial-mockup-pages)
 * [Team Members](#team-members)
 * [Team Contract](#team-contract)
+* [Github Organization](#github-organization)
+* [Deployment](#deployment)
+* [M1](#m1)
+* [M2](#m2)
 
 ## Project Overview
 
@@ -101,3 +105,14 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 [View our Team Contract](https://docs.google.com/document/d/e/2PACX-1vRwtZI0GAWnwQ4oEau8QPwQtFm7aZ480nLDKV6xLEkga-hFvJbkGLqEwaJkZ7Y-P04amXjYO-S2kBL5/pub)
 
+## Github Organization
+[UH GameLink]((https://github.com/uh-gamelink))
+
+## Deployment
+Coming Soon
+
+## M1 
+Coming Soon
+
+## M2
+Coming Soon
