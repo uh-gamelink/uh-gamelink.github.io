@@ -43,7 +43,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### User Home Page & Edit Page
 ![User Home Page Mockup](img/user-homepage-mockup.png)
-![User Edit Page Mockup](img/user-edit-page-mockup.png)
+![User Edit Page Mockup](img/user-edit-profile-mockup.png)
 
 ### Game Library Page
 ![Game Library Page Mockup](img/game-library-mockup.png)
