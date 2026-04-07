@@ -2,9 +2,9 @@
 layout: default
 title: UH GameLink
 ---
-
-<img src="img/user-homepage-mockup.png" width="600px">
-
+<p align="center">
+  <img src="img/user-homepage-mockup.png" width="600px">
+</p>
 # UH GameLink
 
 UH GameLink is a web application designed to help University of Hawaiʻi students connect with other students through video games. Many students play games casually or competitively, but it can be difficult to find other UH students with similar interests, schedules, or favorite games. This project aims to make it easier for students to meet new people, discover gaming communities, and build connections through shared games.
@@ -56,21 +56,37 @@ This project is still in the early stages. At the moment, we have completed a br
 Below are the rough mockups that will serve as the basis for our final project design.
 
 ### User Home Page & Edit Page
-
+<p align="center">
 <img src="img/user-homepage-mockup.png" width="600px">
 <img src="img/user-edit-profile-mockup.png" width="600px">
-
+</p>
+* Shows User profile picture, profile description, and username, which can be edited
+* Lists the User's games they have in their library.
+* Lists their Interests (genres of video games, hobbies, etc.)
 ### Game Library Page
-
+<p align="center">
 <img src="img/game-library-mockup.png" width="600px">
+</p>
+* Lists a variety of different games
+* Each game shows an image of it, the name, a short description, and tags of what genre of game it is
+* The User can add a game to their library, which will show on their homepage.
 
 ### Game Requests Page
-
+<p align="center">
 <img src="img/requests-mockup.png" width="600px">
+</p>
+* The two functions of this page are to view other players requests and create your own request
+* This page will allow the user to send out a public request that other players can see in their own Requests page
+* The create request portion of this page will just have several fields they can fill out (game, rank, description of request)
+* This page will also have a link to the Pending Requests Page
 
 ### Pending Request Page
-
+<p align="center">
 <img src="img/pending-requests-mockup.png" width="600px">
+</p>
+* This page will allow the user view the status of the requests they have made or accepted
+* Each request will show the other users' information, such as rank, game, and whether it has been accepted yet
+* Requests can be removed or edited. 
 
 ## Team Members
 
