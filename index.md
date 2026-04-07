@@ -99,7 +99,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 - John Gabriel Martinez
 - Ella Self
 - Mason Vuong
-- Peyton Young
+- [Peyton Young](https://github.com/peytony9/peytony9.github.io)
 
 ## Team Contract
 
