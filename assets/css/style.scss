@@ -4,16 +4,18 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: linear-gradient(120deg, #1e1b4b, #2563eb);
+  background-image: linear-gradient(120deg, #1b1464, #1d4ed8);
 }
 
 a {
   color: #2563eb;
 }
 
-a:hover {
+a:hover,
+a:focus {
   color: #1d4ed8;
 }
+
 
 /* Page title / headings if you want them bluer too */
 .page-header {
