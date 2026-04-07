@@ -63,6 +63,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 * Shows User profile picture, profile description, and username, which can be edited
 * Lists the User's games they have in their library.
 * Lists their Interests (genres of video games, hobbies, etc.)
+
 ### Game Library Page
 <p align="center">
 <img src="img/game-library-mockup.png" width="600px">
