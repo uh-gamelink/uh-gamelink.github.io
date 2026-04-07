@@ -21,7 +21,7 @@ UH GameLink is a web application designed to help University of Hawaiʻi student
 * [Github Organization](#github-organization)
 * [Deployment](#deployment)
 * [M1](https://github.com/orgs/uh-gamelink/projects/2)
-* [M2](#m2)
+* [M2](https://github.com/orgs/uh-gamelink/projects/5)
 
 ## Project Overview
 
