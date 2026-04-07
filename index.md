@@ -112,7 +112,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 Coming Soon
 
 ## M1 
-Coming Soon
+[M1](https://github.com/orgs/uh-gamelink/projects/2)
 
 ## M2
-Coming Soon
+[M2](https://github.com/orgs/uh-gamelink/projects/5)
