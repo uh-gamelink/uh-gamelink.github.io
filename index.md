@@ -3,7 +3,21 @@ layout: home
 title: UH GameLink
 ---
 
+<img src="img/user-homepage-mockup.png" width="600px">
+
 # UH GameLink
+
+UH GameLink is a web application designed to help University of Hawaiʻi students connect with other students through video games. Many students play games casually or competitively, but it can be difficult to find other UH students with similar interests, schedules, or favorite games. This project aims to make it easier for students to meet new people, discover gaming communities, and build connections through shared games.
+
+## Table of contents
+
+* [Project Overview](#project-overview)
+* [Project Goals](#project-goals)
+* [Planned System Features](#planned-system-features)
+* [Current Project Status](#current-project-status)
+* [Initial Mockup Pages](#initial-mockup-pages)
+* [Team Members](#team-members)
+* [Team Contract](#team-contract)
 
 ## Project Overview
 
@@ -42,18 +56,21 @@ This project is still in the early stages. At the moment, we have completed a br
 Below are the rough mockups that will serve as the basis for our final project design.
 
 ### User Home Page & Edit Page
-![User Home Page Mockup](img/user-homepage-mockup.png)
-![User Edit Page Mockup](img/user-edit-profile-mockup.png)
+
+<img src="img/user-homepage-mockup.png" width="600px">
+<img src="img/user-edit-profile-mockup.png" width="600px">
 
 ### Game Library Page
-![Game Library Page Mockup](img/game-library-mockup.png)
 
+<img src="img/game-library-mockup.png" width="600px">
 
 ### Game Requests Page
-![Requests Mockup](img/requests-mockup.png)
+
+<img src="img/requests-mockup.png" width="600px">
 
 ### Pending Request Page
-![Pending Requests Mockup](img/pending-requests-mockup.png)
+
+<img src="img/pending-requests-mockup.png" width="600px">
 
 ## Team Members
 
@@ -64,6 +81,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 - Peyton Young
 
 ## Team Contract
+
 [View our Team Contract](https://docs.google.com/document/d/e/2PACX-1vRwtZI0GAWnwQ4oEau8QPwQtFm7aZ480nLDKV6xLEkga-hFvJbkGLqEwaJkZ7Y-P04amXjYO-S2kBL5/pub)
 
 > Reminder: Final version must include full project details and screenshots.
