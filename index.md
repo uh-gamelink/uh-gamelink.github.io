@@ -95,10 +95,10 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ## Team Members
 
-- Tuan Do
-- John Gabriel Martinez
-- Ella Self
-- Mason Vuong
+- [Tuan Do](https:/mtuando.github.io/)
+- [John Gabriel Martinez](https://johngabrielmartinez.github.io/)
+- [Ella Self](https://ellaself.github.io/)
+- [Mason Vuong](https://mvuong808.github.io/)
 - [Peyton Young](https://peytony9.github.io/)
 
 ## Team Contract
