@@ -109,7 +109,9 @@ Below are the rough mockups that will serve as the basis for our final project d
 [UH GameLink](https://github.com/uh-gamelink)
 
 ## Deployment
-Coming Soon
+The UH GameLink application is deployed on Vercel and can be accessed here:
+
+- https://uh-gamelink.vercel.app
 
 ## M1 
 [M1](https://github.com/orgs/uh-gamelink/projects/2)
