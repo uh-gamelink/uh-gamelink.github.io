@@ -68,6 +68,16 @@ Below are the rough mockups that will serve as the basis for our final project d
 * Lists the User's games they have in their library.
 * Lists their Interests (genres of video games, hobbies, etc.)
 
+### Edit Profile Page
+<p align="center">
+<img src="img/edit-profile.png" width="600px">
+</p>
+* Allows users to create or edit their profile information in one page
+* Users can update their description and interests
+* Users can upload and preview a profile picture before saving
+* Existing profile data is automatically loaded when editing
+* Changes are saved to the database and reflected on the profile home page
+
 ### Game Library Page
 <p align="center">
 <img src="img/library.png" width="600px">
