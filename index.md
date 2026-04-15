@@ -3,7 +3,7 @@ layout: default
 title: UH GameLink
 ---
 <p align="center">
-  <img src="img/user-homepage-mockup.png" width="600px">
+  <img src="img/home.png" width="600px">
 </p>
 # UH GameLink
 
@@ -61,8 +61,8 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### User Home Page & Edit Page
 <p align="center">
-<img src="img/user-homepage-mockup.png" width="600px">
-<img src="img/user-edit-profile-mockup.png" width="600px">
+<img src="img/home.png" width="600px">
+<img src="img/profile.png" width="600px">
 </p>
 * Shows User profile picture, profile description, and username, which can be edited
 * Lists the User's games they have in their library.
@@ -70,7 +70,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### Game Library Page
 <p align="center">
-<img src="img/game-library-mockup.png" width="600px">
+<img src="img/library.png" width="600px">
 </p>
 * Lists a variety of different games
 * Each game shows an image of it, the name, a short description, and tags of what genre of game it is
@@ -85,6 +85,14 @@ Below are the rough mockups that will serve as the basis for our final project d
 * The create request portion of this page will just have several fields they can fill out (game, rank, description of request)
 * This page will also have a link to the Pending Requests Page
 
+### Community Page
+<p align="center">
+<img src="img/community.png">
+</p>
+* Displays a list of UH GameLink users in the community.
+* Each user card includes a profile image, username, game, and rank.
+* Users can connect with each other through the "Connect" link.
+
 ### Pending Request Page
 <p align="center">
 <img src="img/pending-requests-mockup.png" width="600px">
@@ -92,6 +100,22 @@ Below are the rough mockups that will serve as the basis for our final project d
 * This page will allow the user view the status of the requests they have made or accepted
 * Each request will show the other users' information, such as rank, game, and whether it has been accepted yet
 * Requests can be removed or edited. 
+
+### Change Password Page
+<p align="center">
+<img src="img/change-password.png" width="600px">
+</p>
+
+### Sign-in Page
+<p align="center">
+<img src="img/sign-in.png" width="600px">
+</p>
+
+### Sign Out Confirmation Page
+<p align="center">
+<img src="img/sign-out-confirmation.png" width="600px">
+</p>
+
 
 ## Team Members
 
