@@ -22,6 +22,7 @@ UH GameLink is a web application designed to help University of Hawaiʻi student
 * [Deployment](#deployment)
 * [M1](#M1)
 * [M2](#M2)
+* [M3](#M3)
 
 ## Project Overview
 
@@ -152,3 +153,6 @@ The UH GameLink application is deployed on Vercel and can be accessed here:
 
 ## M2
  [M2](https://github.com/orgs/uh-gamelink/projects/5)
+
+## M3
+ [M3](https://github.com/orgs/uh-gamelink/projects/7)
