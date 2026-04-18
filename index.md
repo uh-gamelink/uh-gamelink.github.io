@@ -100,6 +100,14 @@ Below are the rough mockups that will serve as the basis for our final project d
 <p align="center">
 <img src="img/community.png">
 </p>
+* Displays a list of UH community discord servers, as well as various official disccords for specific games.
+* Each community card includes a server image, name, description, and tags.
+* Users can join the discord by pressing the join discord button.
+
+### Find Players Page
+<p align="center">
+<img src="img/find-players.png">
+</p>
 * Displays a list of UH GameLink users in the community.
 * Each user card includes a profile image, username, game, and rank.
 * Users can connect with each other through the "Connect" link.
