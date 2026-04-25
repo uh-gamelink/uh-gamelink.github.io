@@ -62,8 +62,8 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### Landing Page & My Profile Page
 <p align="center">
-<img src="img/m2/landing-page.png" width="600px">
-<img src="img/m2/profile-page.png" width="600px">
+<img src="img/m2/landing-page.png" width="800px">
+<img src="img/m2/profile-page.png" width="800px">
 </p>
 * Shows User profile picture, profile description, and username, which can be edited
 * Lists the User's games they have in their library.
@@ -71,7 +71,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### Edit Profile Page
 <p align="center">
-<img src="img/m2/edit-profile-page.png" width="600px">
+<img src="img/m2/edit-profile-page.png" width="800px">
 </p>
 * Allows users to create or edit their profile information in one page
 * Users can update their description and interests
@@ -81,7 +81,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### Game Library Page
 <p align="center">
-<img src="img/m2/game-library-page.png" width="600px">
+<img src="img/m2/game-library-page.png" width="800px">
 </p>
 * Lists a variety of different games
 * Each game shows an image of it, the name, a short description, and tags of what genre of game it is
@@ -89,7 +89,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### Game Requests Page
 <p align="center">
-<img src="img/m2/requests-page.png" width="600px">
+<img src="img/m2/requests-page.png" width="800px">
 </p>
 * The two functions of this page are to view other players requests and create your own request
 * This page will allow the user to send out a public request that other players can see in their own Requests page
@@ -98,7 +98,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### Community Page
 <p align="center">
-<img src="img/m2/community-page.png">
+<img src="img/m2/community-page.png" width="800px">
 </p>
 * Displays a list of UH community discord servers, as well as various official disccords for specific games.
 * Each community card includes a server image, name, description, and tags.
@@ -106,7 +106,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### Find Players Page
 <p align="center">
-<img src="img/m2/find-players-page.png">
+<img src="img/m2/find-players-page.png" width="800px">
 </p>
 * Displays a list of UH GameLink users in the community.
 * Each user card includes a profile image, username, game, and rank.
@@ -114,7 +114,7 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### Pending Request Page
 <p align="center">
-<img src="img/m2/pending-requests-page.png" width="600px">
+<img src="img/m2/pending-requests-page.png" width="800px">
 </p>
 * This page will allow the user view the status of the requests they have made or accepted
 * Each request will show the other users' information, such as rank, game, and whether it has been accepted yet
@@ -122,22 +122,22 @@ Below are the rough mockups that will serve as the basis for our final project d
 
 ### Change Password Page
 <p align="center">
-<img src="img/m2/change-password.png" width="600px">
+<img src="img/m2/change-password.png" width="800px">
 </p>
 
 ### Sign-in Page
 <p align="center">
-<img src="img/m2/signin.png" width="600px">
+<img src="img/m2/signin.png" width="800px">
 </p>
 
 ### Sign Out Confirmation Page
 <p align="center">
-<img src="img/m2/signout-confirmation.png" width="600px">
+<img src="img/m2/signout-confirmation.png" width="800px">
 </p>
 
 ### About Us Page
 <p align="center">
-<img src="img/m2/about-us-page.png" width="600px">
+<img src="img/m2/about-us-page.png" width="800px">
 </p>
 
 
