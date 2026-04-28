@@ -54,11 +54,11 @@ These features are intended to help users not only organize their own gaming int
 
 ## Current Project Status
 
-This project is still in the early stages. At the moment, we have completed a brief project proposal and created a few rough mockup images to guide our design process. As development continues, this page will be updated to reflect the latest version of the project, including implemented features, design changes, and screenshots of the working system.
+This project is still in progress. At the moment, we have completed several of the core pages based off our mockups and are still working towards more functionality. As development continues, this page will be updated to reflect the latest version of the project, including implemented features, design changes, and screenshots of the working system.
 
-## Initial Mockup Pages
+## Page Screenshots
 
-Below are the rough mockups that will serve as the basis for our final project design.
+Below are the screenshots of the working website and each of its functional pages. 
 
 ### Landing Page & My Profile Page
 <p align="center">
