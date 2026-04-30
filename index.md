@@ -140,7 +140,7 @@ Below are the screenshots of the working website and each of its functional page
 <img src="img/m2/about-us-page.png" width="800px">
 </p>
 
-### Developer's Guide
+## Developer's Guide
 <div style="max-width: 900px; margin: auto;">
 
 <p>
