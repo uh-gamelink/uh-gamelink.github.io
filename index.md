@@ -143,8 +143,6 @@ Below are the screenshots of the working website and each of its functional page
 ### Developer's Guide
 <div style="max-width: 900px; margin: auto;">
 
-<h2>Developer’s Guide</h2>
-
 <p>
   This section explains how to run UH GameLink locally and understand the project setup.
 </p>
@@ -159,8 +157,8 @@ Below are the screenshots of the working website and each of its functional page
 
 <h3>2. Clone the Repository</h3>
 <pre>
-git clone &lt;your-repository-url&gt;
-cd &lt;your-project-folder&gt;
+git clone &lt;https://github.com/uh-gamelink/uh-gamelink-app.git&gt;
+cd &lt;uh-gamelink-app&gt;
 </pre>
 
 <h3>3. Install Dependencies</h3>
