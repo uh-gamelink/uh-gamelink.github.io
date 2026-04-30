@@ -140,6 +140,83 @@ Below are the screenshots of the working website and each of its functional page
 <img src="img/m2/about-us-page.png" width="800px">
 </p>
 
+### Developer's Guide
+<div style="max-width: 900px; margin: auto;">
+
+<h2>Developer’s Guide</h2>
+
+<p>
+  This section explains how to run UH GameLink locally and understand the project setup.
+</p>
+
+<h3>1. Prerequisites</h3>
+<ul>
+  <li>Node.js (v18 or higher recommended)</li>
+  <li>npm</li>
+  <li>PostgreSQL (local or hosted database such as Neon or Supabase)</li>
+  <li>Git</li>
+</ul>
+
+<h3>2. Clone the Repository</h3>
+<pre>
+git clone &lt;your-repository-url&gt;
+cd &lt;your-project-folder&gt;
+</pre>
+
+<h3>3. Install Dependencies</h3>
+<pre>
+npm install
+</pre>
+
+<h3>4. Environment Variables</h3>
+<p>Create a <code>.env</code> file in the root directory:</p>
+
+<pre>
+DATABASE_URL="your-postgres-database-url"
+NEXTAUTH_SECRET="your-secret-key"
+NEXTAUTH_URL="http://localhost:3000"
+</pre>
+
+<h3>5. Set Up the Database</h3>
+<pre>
+npx prisma migrate dev
+npx prisma generate
+</pre>
+
+<p>(Optional) Open Prisma Studio:</p>
+<pre>
+npx prisma studio
+</pre>
+
+<h3>6. Run the Development Server</h3>
+<pre>
+npm run dev
+</pre>
+
+<p>
+  Open your browser and go to:
+  <br />
+  <a href="http://localhost:3000">http://localhost:3000</a>
+</p>
+
+<h3>7. Project Structure</h3>
+<ul>
+  <li><code>/app</code> → Pages (Next.js App Router)</li>
+  <li><code>/components</code> → Reusable UI components</li>
+  <li><code>/api</code> → API routes</li>
+  <li><code>/lib</code> → Authentication + Prisma setup</li>
+  <li><code>/prisma</code> → Database schema + migrations</li>
+  <li><code>/public</code> → Static assets</li>
+</ul>
+
+<h3>8. Common Issues</h3>
+<ul>
+  <li>If Prisma errors occur, run <code>npx prisma generate</code></li>
+  <li>If database connection fails, check <code>DATABASE_URL</code></li>
+  <li>If login fails, ensure <code>NEXTAUTH_SECRET</code> is set correctly</li>
+</ul>
+
+</div>
 
 ## Team Members
 
