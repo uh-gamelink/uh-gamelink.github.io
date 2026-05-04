@@ -2,9 +2,6 @@
 layout: default
 title: UH GameLink
 ---
-<p align="center">
-  <img src="img/m2/landing-page.png" width="600px">
-</p>
 # UH GameLink
 
 UH GameLink is a web application designed to help University of Hawaiʻi students connect with other students through video games. Many students play games casually or competitively, but it can be difficult to find other UH students with similar interests, schedules, or favorite games. This project aims to make it easier for students to meet new people, discover gaming communities, and build connections through shared games.
@@ -38,7 +35,7 @@ The main goal of UH GameLink is to create a centralized place where students can
 - Discover gaming-related Discord servers, groups, and events
 - Connect with others for casual play, teamwork, or community involvement
 
-## Planned System Features
+## System Features
 
 As the project develops, the system is expected to provide:
 
@@ -52,92 +49,111 @@ As the project develops, the system is expected to provide:
 
 These features are intended to help users not only organize their own gaming interests, but also actively connect with other members of the UH community.
 
-## Current Project Status
 
-This project is still in progress. At the moment, we have completed several of the core pages based off our mockups and are still working towards more functionality. As development continues, this page will be updated to reflect the latest version of the project, including implemented features, design changes, and screenshots of the working system.
-
-## Page Screenshots
+## User Guide
 
 Below are the screenshots of the working website and each of its functional pages. 
 
-### Landing Page & My Profile Page
+### Landing Page 
 <p align="center">
-<img src="img/m2/landing-page.png" width="800px">
-<img src="img/m2/profile-page.png" width="800px">
+<img src="img/M3/landing-pg.png" width="600px">
 </p>
-* Shows User profile picture, profile description, and username, which can be edited
-* Lists the User's games they have in their library.
-* Lists their Interests (genres of video games, hobbies, etc.)
+The landing page gives an overview of our app. As well as provides a directory to help users better navigate our website. Each card below the directory listing gives a description of the functionality for various pages and links to access those pages.
+
+###  My Profile Page
+<p align="center">
+<img src="img/M3/profile-pg.png" width="800px">
+</p>
+ Shows User profile picture, profile description, and username, which can be edited. Additionally, the profile lists the User's games they have in their library.As well as displays their Interests & Communties(genres of video games, hobbies, etc.)
 
 ### Edit Profile Page
 <p align="center">
-<img src="img/m2/edit-profile-page.png" width="800px">
+<img src="img/M3/edit-profile.png" width="800px">
 </p>
-* Allows users to create or edit their profile information in one page
-* Users can update their description and interests
-* Users can upload and preview a profile picture before saving
-* Existing profile data is automatically loaded when editing
-* Changes are saved to the database and reflected on the profile home page
+Whena user clicks on the "Edit Profile" link within the Profile page, it directs the users to create or edit their profile information in one page.Users can update their description and interests. Not only that, but they can upload and preview a profile picture before saving. Existing profile data is automatically loaded when editing. Finally, changes are saved to the database and reflected on the profile home page
 
 ### Game Library Page
 <p align="center">
-<img src="img/m2/game-library-page.png" width="800px">
+<img src="img/M3/game-library.png" width="800px">
+(public library page)
+<img src="img/M3/user-library.png" width="800px">
+(user's library page)
 </p>
-* Lists a variety of different games
-* Each game shows an image of it, the name, a short description, and tags of what genre of game it is
-* The User can add a game to their library, which will show on their homepage.
+This page lists a variety of different games. Each game shows an image of it, the name, a short description, and tags for it's game genre. When signed in, the user can add and view games in their favorites library. 
 
-### Game Requests Page
+### Game Favorites Page
 <p align="center">
-<img src="img/m2/requests-page.png" width="800px">
+<img src="img/M3/favorites-pg.png" width="800px">
 </p>
-* The two functions of this page are to view other players requests and create your own request
-* This page will allow the user to send out a public request that other players can see in their own Requests page
-* The create request portion of this page will just have several fields they can fill out (game, rank, description of request)
-* This page will also have a link to the Pending Requests Page
+To acess and edit a users favorites games, can click on the "view favorites" button in the game library or click the "Edit Favorites" link within the profile page. 
 
 ### Community Page
 <p align="center">
-<img src="img/m2/community-page.png" width="800px">
+<img src="img/m2/community-pg.png" width="800px">
+(public discord page)
+<img src="img/m2/user-community-pg.png" width="800px">
+(public user's page)
 </p>
-* Displays a list of UH community discord servers, as well as various official disccords for specific games.
-* Each community card includes a server image, name, description, and tags.
-* Users can join the discord by pressing the join discord button.
+the Community page displays a list of UH community discord servers, as well as various official disccords for specific games.
+Each community card includes a server image, name, description, and tags. Users can join the discord by pressing the join discord button. When signed in, they can add these serves to their profile page listings under "Communities."
 
 ### Find Players Page
 <p align="center">
-<img src="img/m2/find-players-page.png" width="800px">
+<img src="img/M3/find-players.png" width="800px">
 </p>
-* Displays a list of UH GameLink users in the community.
-* Each user card includes a profile image, username, game, and rank.
-* Users can connect with each other through the "Connect" link.
+While signed in, this page hosts a list of UH GameLink users in the community. Each user card includes a profile image, username, game, and rank. Users can connect with each other through the "Connect" link. At the top right corner, users can search for specific players. in addition to viewing their requests to other players and create their own listing for the differant games they play. 
 
-### Pending Request Page
+### Player Requests Page
 <p align="center">
-<img src="img/m2/pending-requests-page.png" width="800px">
+<img src="img/m2/requests-pg.png" width="800px">
 </p>
-* This page will allow the user view the status of the requests they have made or accepted
-* Each request will show the other users' information, such as rank, game, and whether it has been accepted yet
-* Requests can be removed or edited. 
+While logged in, this page will allow the user to manages their requests to and from other users. The two functions of this page are to view other players requests to join gaming with the user and update their own request. 
+
+
+### Reviews Page
+<p align="center">
+<img src="img/M3/reviews-pg.png" width="800px">
+</p>
+This page host a list of previous users of our site and their expirences with our plateform. With cars that display the user who wrote the review, their rating of our site, a description, date and date of the post. While logged in, this page will allow the user to leave and manages reviews of our site.
+
+### Report Page
+<p align="center">
+<img src="img/M3/report-pg.png" width="800px">
+</p>
+The Report page allows users to file formal complaints about misconduct and harassment from other players on UH-GameLink. Users can detail information of the player's username, the grievance, and the date of the incident. The report will be sent to an admin moderator, where they will decide the standing of the player on UH-GameLink. 
+
+### Report Dashboard Page
+<p align="center">
+<img src="img/M3/report-dash.png" width="800px">
+</p>
+
+While logged in as an administrator, the moderator view the griences reported by users and handle issue on a case by case basis. After reviewing the detail of an incident, the moderator can resolve, flag the user for misconduct ("Conduct Warning" label will display on user cards), or Ban the player all together. 
+
+### Manage Page
+<p align="center">
+<img src="img/M3/report-pg.png" width="800px">
+</p>
+
+While logged in as an administrator, the moderator view the griences reported by users and handle issue on a case by case basis. After reviewing the detail of an incident, the moderator can resolve, flag the user for misconduct ("Conduct Warning" label will display on user cards), or Ban the player all together. 
 
 ### Change Password Page
 <p align="center">
-<img src="img/m2/change-password.png" width="800px">
+<img src="img/M3/change-password.png" width="800px">
 </p>
 
 ### Sign-in Page
 <p align="center">
-<img src="img/m2/signin.png" width="800px">
+<img src="img/M3/sign-in.png" width="800px">
 </p>
 
 ### Sign Out Confirmation Page
 <p align="center">
-<img src="img/m2/signout-confirmation.png" width="800px">
+<img src="img/M3/sign-out.png" width="800px">
 </p>
 
 ### About Us Page
 <p align="center">
-<img src="img/m2/about-us-page.png" width="800px">
+<img src="img/M3/about-pg.png" width="800px">
 </p>
 
 ## Developer's Guide
