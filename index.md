@@ -134,7 +134,7 @@ While logged in as an administrator, the moderator view the griences reported by
 <img src="img/M3/report-pg.png" width="800px">
 </p>
 
-While logged in as an administrator, the moderator view the griences reported by users and handle issue on a case by case basis. After reviewing the detail of an incident, the moderator can resolve, flag the user for misconduct ("Conduct Warning" label will display on user cards), or Ban the player all together. 
+While logged in as an administrator, the moderator can view all listing of UH-GameLink;s database information. They can alternate between managing and updating games to the Game library page. Or handle issues pretaining to the discord servers on the Community page. As well as moderate the standing and information listed within the FInd Players page. 
 
 ### Change Password Page
 <p align="center">
