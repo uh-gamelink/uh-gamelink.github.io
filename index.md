@@ -88,12 +88,12 @@ This page lists a variety of different games. Each game shows an image of it, th
 To acess and edit a users favorites games, can click on the "view favorites" button in the game library or click the "Edit Favorites" link within the profile page. 
 
 ### Community Page
-<p align="center">
-<img src="img/m2/community-pg.png" width="800px">
+<div align="center">
+<img src="img/M3/community-pg.png" width="800px">
 <p>(public discord page)</p>
-<img src="img/m2/user-community-pg.png" width="800px">
+<img src="img/M3/user-community-pg.png" width="800px">
 <p>(public user's page)</p>
-</p>
+</div>
 the Community page displays a list of UH community discord servers, as well as various official disccords for specific games.
 Each community card includes a server image, name, description, and tags. Users can join the discord by pressing the join discord button. When signed in, they can add these serves to their profile page listings under "Communities."
 
@@ -105,14 +105,14 @@ While signed in, this page hosts a list of UH GameLink users in the community. E
 
 ### Player Requests Page
 <p align="center">
-<img src="img/m2/requests-pg.png" width="800px">
+<img src="img/M3/requests-pg.png" width="800px">
 </p>
 While logged in, this page will allow the user to manages their requests to and from other users. The two functions of this page are to view other players requests to join gaming with the user and update their own request. 
 
 
 ### Reviews Page
 <p align="center">
-<img src="img/M3/reviews-pg.png" width="800px">
+<img src="img/M3/review-pg.png" width="800px">
 </p>
 This page host a list of previous users of our site and their expirences with our plateform. With cars that display the user who wrote the review, their rating of our site, a description, date and date of the post. While logged in, this page will allow the user to leave and manages reviews of our site.
 
@@ -124,7 +124,7 @@ The Report page allows users to file formal complaints about misconduct and hara
 
 ### Report Dashboard Page
 <p align="center">
-<img src="img/M3/report-dash.png" width="800px">
+<img src="img/M3/manage-pg.png" width="800px">
 </p>
 
 While logged in as an administrator, the moderator view the griences reported by users and handle issue on a case by case basis. After reviewing the detail of an incident, the moderator can resolve, flag the user for misconduct ("Conduct Warning" label will display on user cards), or Ban the player all together. 
