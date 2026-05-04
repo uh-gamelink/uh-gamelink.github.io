@@ -90,9 +90,9 @@ To acess and edit a users favorites games, can click on the "view favorites" but
 ### Community Page
 <p align="center">
 <img src="img/m2/community-pg.png" width="800px">
-(public discord page)
+<p>(public discord page)</p>
 <img src="img/m2/user-community-pg.png" width="800px">
-(public user's page)
+<p>(public user's page)</p>
 </p>
 the Community page displays a list of UH community discord servers, as well as various official disccords for specific games.
 Each community card includes a server image, name, description, and tags. Users can join the discord by pressing the join discord button. When signed in, they can add these serves to their profile page listings under "Communities."
