@@ -3,26 +3,16 @@
 
 .page-header {
   background-image: linear-gradient(120deg, #090014, #105c2b);
+  color: #dbeafe;
 }
 
 a {
-  color: #105c2b;
+  color: #105c2b !important;
 }
 
 a:hover,
 a:focus {
-  color: #105c2b;
-}
-
-
-/* Page title / headings if you want them bluer too */
-.page-header {
-  color: #dbeafe;
-}
-
-/* Top gradient area */
-.page-header {
-  background-image: linear-gradient(120deg, #1e3a8a, #2563eb);
+  color: #105c2b !important;
 }
 
 /* Buttons in the top header */
