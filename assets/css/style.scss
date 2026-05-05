@@ -8,13 +8,22 @@
   color: #fbfff5;
 }
 
-a {
+.page-header a {
+  color: #fbfff5 !important;
+}
+
+.page-header a:hover,
+.page-header a:focus {
+  color: #e6ffee !important;
+}
+
+.main-content a {
   color: #105c2b !important;
 }
 
-a:hover,
-a:focus {
-  color: #105c2b !important;
+.main-content a:hover,
+.main-content a:focus {
+  color: #0d4a22 !important;
 }
 
 /* Buttons in the top header */
