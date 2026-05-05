@@ -156,6 +156,13 @@ While logged in as an administrator, the moderator can view all listing of UH-Ga
 <img src="img/M3/about-pg.png" width="800px">
 </p>
 
+
+## Community Feedback
+<p align="center">
+<img src="img/M3/review-pg.png" width="800px">
+</p>
+Description...
+
 ## Developer's Guide
 <div style="max-width: 900px; margin: auto;">
 
