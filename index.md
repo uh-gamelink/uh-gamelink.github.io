@@ -112,7 +112,7 @@ While logged in, this page will allow the user to manages their requests to and 
 
 ### Reviews Page
 <p align="center">
-<img src="img/M3/review-pg.png" width="800px">
+<img src="img/M3/review.png" width="800px">
 </p>
 This page host a list of previous users of our site and their expirences with our plateform. With cars that display the user who wrote the review, their rating of our site, a description, date and date of the post. While logged in, this page will allow the user to leave and manages reviews of our site.
 
@@ -159,7 +159,7 @@ While logged in as an administrator, the moderator can view all listing of UH-Ga
 
 ## Community Feedback
 <p align="center">
-<img src="img/M3/review-pg.png" width="800px">
+<img src="img/M3/review.png" width="800px">
 </p>
 After receiving some feedback from a few UH students, there's a few small issues around the loading times, organization, spacing, and some small bugs. However it's a work in progress and it'd be much appreciated if you could take a few minutes to look at our website and give us some constructive critiscm to improve our project.
 
