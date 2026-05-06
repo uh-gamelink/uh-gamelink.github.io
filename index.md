@@ -20,6 +20,7 @@ UH GameLink is a web application designed to help University of Hawaiʻi student
 * [M1](#M1)
 * [M2](#M2)
 * [M3](#M3)
+* [Effort Estimates Sheet] (https://docs.google.com/spreadsheets/d/e/2PACX-1vSu3qrO7m9k3tqb70ya84nqExBQR8iBhDd_U2u4HPzf95ZeTdrYNOxVx7YCMLxsE5C3hbymNighXhH2/pubhtml)
 
 ## Project Overview
 
