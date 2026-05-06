@@ -161,7 +161,7 @@ While logged in as an administrator, the moderator can view all listing of UH-Ga
 <p align="center">
 <img src="img/M3/review-pg.png" width="800px">
 </p>
-Description...
+After receiving some feedback from a few UH students, there's a few small issues around the loading times, organization, spacing, and some small bugs. However it's a work in progress and it'd be much appreciated if you could take a few minutes to look at our website and give us some constructive critiscm to improve our project.
 
 ## Developer's Guide
 <div style="max-width: 900px; margin: auto;">
